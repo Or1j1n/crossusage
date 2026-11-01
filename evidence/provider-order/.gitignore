@@ -1,0 +1,5 @@
+before-settings.ts
+.vite/
+*.log
+.playwright-cli/
+.playwright/
